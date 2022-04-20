@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF&lines=Привет+,+я+Настя+👋)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=50C56C&lines=Привет,+я+Настя+👋)](https://git.io/typing-svg)
 
 Я начинающий front-end-разработчик. Учусь в [Яндекс.Практикум](https://practicum.yandex.ru/) на курсе Веб-разработчик.
 
