@@ -5,12 +5,9 @@
 Хочу писать качественный код, создавать эффективные и полезные сайты и быть частью классной команды.
 
 ### Мой стек:
-**Фронтенд**: React.js, Redux, Redux Toolkit, TypeScript, JavaScript, HTML, CSS, Sass, MUI, Webpack  
-
-**Бекенд**: Node.js, Express
-
-**Базы данных**: PostgreSQL, Sequelize ORM, MongoDB
-
+**Фронтенд**: React.js, Redux, Redux Toolkit, TypeScript, JavaScript, HTML, CSS, Sass, MUI, Webpack\
+**Бекенд**: Node.js, Express\
+**Базы данных**: PostgreSQL, Sequelize ORM, MongoDB\
 **A также**: nginx, Jest, Git, GitHub, Postman, Figma
 
 
